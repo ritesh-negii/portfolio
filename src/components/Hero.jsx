@@ -6,14 +6,14 @@ export default function Hero() {
   return (
     <section className="min-h-screen flex items-center justify-center px-6 md:px-12 relative">
       <div className="max-w-3xl w-full text-center">
-        {/* Circular Profile Image */}
+       
         <motion.div
           initial={{ opacity: 0, scale: 0.8 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.8 }}
           className="mb-8"
         >
-          <div className="w-40 h-40 mx-auto rounded-full border-4 border-blue-500 shadow-[0_0_30px_rgba(74,144,226,0.5)] overflow-hidden">
+          <div className="w-40 h-40 mx-auto rounded-full border-3 border-blue-500/50 shadow-[0_0_20px_rgba(74,144,226,0.3),0_0_40px_rgba(74,144,226,0.2)] overflow-hidden">
             <img 
               src="/ritesh.jpg" 
               alt="Ritesh Negi" 

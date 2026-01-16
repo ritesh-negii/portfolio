@@ -2,6 +2,7 @@ import Hero from '@/components/Hero';
 import Projects from '@/components/Projects';
 import Skills from '@/components/Skills';
 import Education from '@/components/Education';
+import Resume from '@/components/Resume';
 import Contact from '@/components/Contact';
 import ScrollProgress from '@/components/ScrollProgress';
 
@@ -29,6 +30,7 @@ export default function Home() {
       <Projects />
       <Skills />
       <Education />
+      <Resume />
       <Contact />
       
       <footer className="text-center py-10 text-gray-600 mt-20">

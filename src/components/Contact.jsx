@@ -43,7 +43,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="mailto:riteshnegi111@gmail.com"
+            href="mailto:riteshnegi11@gmail.com"
             className="w-14 h-14 rounded-full bg-red-500 flex items-center justify-center hover:scale-110 hover:shadow-[0_10px_30px_rgba(239,68,68,0.4)] transition-all duration-300"
             aria-label="Email"
           >
@@ -53,7 +53,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="https://leetcode.com/u/ritesh-negii/"
+            href="https://leetcode.com/u/L6A0pw10GQ/"
             target="_blank"
             rel="noopener noreferrer"
             className="w-14 h-14 rounded-full bg-[#FFA116] flex items-center justify-center hover:scale-110 hover:shadow-[0_10px_30px_rgba(255,161,22,0.4)] transition-all duration-300"
@@ -75,11 +75,11 @@ export default function Contact() {
             <span>+91 9971911224</span>
           </a>
           <a
-            href="mailto:riteshnegi111@gmail.com"
+            href="mailto:riteshnegi11@gmail.com"
             className="px-6 py-3 bg-white/[0.03] border border-blue-500/20 rounded-full text-gray-200 text-sm flex items-center gap-2 hover:bg-blue-500/15 hover:border-blue-500 hover:scale-105 transition-all duration-300"
           >
             <span>✉️</span>
-            <span>riteshnegi111@gmail.com</span>
+            <span>riteshnegi11@gmail.com</span>
           </a>
         </div>
       </motion.div>
